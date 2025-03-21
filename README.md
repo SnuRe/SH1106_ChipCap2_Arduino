@@ -11,6 +11,7 @@ I also 3D printed an enclosure for both the display and sensor to keep things ne
 -----
 
 Features:
+
 Reads temperature and humidity from the ChipCap2 sensor.
 Displays the data on a 128×64 SH1106 OLED.
 Centers the measurement value (large font) and the unit (smaller font).
@@ -19,6 +20,7 @@ Easily shift the entire text on the display using HORIZONTAL_OFFSET and VERTICAL
 ----
 
 Required Libraries:
+
 Adafruit GFX Library
 Adafruit SH110X Library
 You can install these libraries via the Arduino IDE’s Library Manager.
