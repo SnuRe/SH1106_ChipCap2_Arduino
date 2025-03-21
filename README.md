@@ -1,4 +1,4 @@
-ChipCap2 + SH1106 Display 
+ChipCap2 + SH1106 Display + Arduino
 
 This project demonstrates how to read humidity and temperature data from a ChipCap2 sensor over I2C and display these readings on an SH1106 OLED using Adafruit libraries.
 The display shows both large and small fonts (from the Adafruit GFX library) for clear, centered measurement readouts.
